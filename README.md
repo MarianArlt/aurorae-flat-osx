@@ -2,7 +2,7 @@
 
 #### Tested with Plasma 5.x
 
-This is a flatter version of my theme Breeze OSX for the default KDE desktop environment. If this is too flat for you check out [https://www.opendesktop.org/p/1159008](Breeze OSX). Based on the existing theme [https://www.opendesktop.org/p/1002631](Evolvere Light Pure Circle by Frank Souza).  
+This is a flatter version of my theme Breeze OSX for the default KDE desktop environment. If this is too flat for you check out [Breeze OSX](https://www.opendesktop.org/p/1159008). Based on the existing theme [Evolvere Light Pure Circle by Frank Souza](https://www.opendesktop.org/p/1002631).  
 The default border width (config settings set to "normal") is 8px. This is by intention. It makes for a consistent design throughout any application. All buttons got subtle indicators for their actions just like the recent OSX/macOS versions do, only a little less dominant/irritating.
 
 ### Installation
@@ -11,7 +11,7 @@ Go to `System Settings > Application Style > Window Decorations > Get New Decora
 
 ### Manually
 
-Go to [https://www.opendesktop.org/p/1199822](openDesktop.org) and download the compressed theme folder. Then extract it (change download path if necessary):
+Go to [openDesktop.org](https://www.opendesktop.org/p/1199822) and download the compressed theme folder. Then extract it (change download path if necessary):
 ```
 $ tar -xzvf ~/Downloads/Flat-OSX.tar.gz -C ~/.local/share/aurorae/themes
 ```
