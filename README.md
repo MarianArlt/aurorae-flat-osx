@@ -1,3 +1,5 @@
+![Screenshot of the theme](preview.png "Plasma + Flat OSX = :D")
+
 # FlatOSX Window Decorations for KDE Plasma
 
 #### Tested with Plasma 5.x
